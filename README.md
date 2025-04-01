@@ -3,7 +3,7 @@
 
 
 
- ![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs9275&theme=blue-green)     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs9275&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=lhs9275&theme=blue-green)
+ ![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs9275&theme=blue-green)     
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs9275)](https://solved.ac/lhs9275)
 
@@ -13,3 +13,4 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![db](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs9275&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=lhs9275&theme=blue-green)
