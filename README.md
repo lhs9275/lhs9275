@@ -3,7 +3,8 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs9275&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs9275&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green) ![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs9275&theme=blue-green)
+
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -11,4 +12,3 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![db](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs9275&theme=blue-green)
